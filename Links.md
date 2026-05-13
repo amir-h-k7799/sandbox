@@ -2,6 +2,14 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-13 13:48 IR
+- 🗜️ [TunnelX-v1.2.24-standalone-compressed.7z.001](https://github.com/amir-h-k7799/sandbox/raw/main/dl/TunnelX-v1.2.24-standalone-compressed.7z.001) `95.0MB`
+
+- 🗜️ [TunnelX-v1.2.24-standalone-compressed.7z.002](https://github.com/amir-h-k7799/sandbox/raw/main/dl/TunnelX-v1.2.24-standalone-compressed.7z.002) `24.7MB`
+
+---
+
+
 ### 📅 2026-05-13 10:57 IR
 - 📱 [v2rayNG_2.1.7_arm64-v8a.apk](https://github.com/amir-h-k7799/sandbox/raw/main/dl/v2rayNG_2.1.7_arm64-v8a.apk) `26.8MB`
 
