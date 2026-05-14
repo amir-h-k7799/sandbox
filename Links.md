@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-14 16:25 IR
+- 📱 [ShirOKhorshid-2026.05.14.apk](https://github.com/amir-h-k7799/sandbox/raw/main/dl/ShirOKhorshid-2026.05.14.apk) `23.9MB`
+
+---
+
+
 ### 📅 2026-05-14 12:00 IR
 - 🗜️ [v2rayN-windows-64-desktop.7z.001](https://github.com/amir-h-k7799/sandbox/raw/main/dl/v2rayN-windows-64-desktop.7z.001) `95.0MB`
 
