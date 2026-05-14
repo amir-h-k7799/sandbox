@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-14 07:56 IR
+- 📱 [WhiteDNS-1.3.0-arm64-v8a.apk](https://github.com/amir-h-k7799/sandbox/raw/main/dl/WhiteDNS-1.3.0-arm64-v8a.apk) `5.2MB`
+
+---
+
+
 ### 📅 2026-05-13 20:51 IR
 - 📥 [MasterHttpRelayVPN-python_testing.zip](https://github.com/amir-h-k7799/sandbox/raw/main/dl/MasterHttpRelayVPN-python_testing.zip) `170KB`
 
